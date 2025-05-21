@@ -1,2 +1,3 @@
-# FILE_FORMAT_CONVERTER
-python application for file format converter.
+1 pandas==1.5.0
+
+# pip install -r .\readme.md
